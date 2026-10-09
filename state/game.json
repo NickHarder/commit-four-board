@@ -39,6 +39,24 @@
       "status": "ai_won",
       "startedAt": "2026-10-09T19:12:02.887Z",
       "endedAt": "2026-10-09T19:12:19.455Z"
+    },
+    {
+      "id": 3,
+      "placement": {
+        "mode": "season",
+        "season": 2021,
+        "slot": 2,
+        "anchorSunday": "2021-05-02"
+      },
+      "counts": {
+        "human": 4,
+        "ai": 2
+      },
+      "humanFirst": true,
+      "difficulty": "hard",
+      "moves": "",
+      "status": "in_progress",
+      "startedAt": "2026-10-09T19:35:51.975Z"
     }
   ],
   "anchors": [
@@ -47,5 +65,5 @@
       "count": 14
     }
   ],
-  "updatedAt": "2026-10-09T19:12:19.455Z"
+  "updatedAt": "2026-10-09T19:35:51.975Z"
 }

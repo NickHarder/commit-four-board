@@ -54,7 +54,7 @@
       },
       "humanFirst": true,
       "difficulty": "hard",
-      "moves": "14441511",
+      "moves": "1444151173",
       "status": "in_progress",
       "startedAt": "2026-10-09T19:35:51.975Z"
     }
@@ -65,5 +65,5 @@
       "count": 14
     }
   ],
-  "updatedAt": "2026-10-09T19:36:17.875Z"
+  "updatedAt": "2026-10-09T19:36:27.514Z"
 }

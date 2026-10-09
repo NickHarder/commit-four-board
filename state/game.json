@@ -54,9 +54,10 @@
       },
       "humanFirst": true,
       "difficulty": "hard",
-      "moves": "1444151173",
-      "status": "in_progress",
-      "startedAt": "2026-10-09T19:35:51.975Z"
+      "moves": "144415117326",
+      "status": "ai_won",
+      "startedAt": "2026-10-09T19:35:51.975Z",
+      "endedAt": "2026-10-09T19:36:29.451Z"
     }
   ],
   "anchors": [
@@ -65,5 +66,5 @@
       "count": 14
     }
   ],
-  "updatedAt": "2026-10-09T19:36:27.514Z"
+  "updatedAt": "2026-10-09T19:36:29.451Z"
 }

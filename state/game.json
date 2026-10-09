@@ -1,7 +1,31 @@
 {
   "version": 1,
   "owner": "NickHarder",
-  "games": [],
-  "anchors": [],
-  "updatedAt": "2026-10-09T07:36:56.296Z"
+  "games": [
+    {
+      "id": 1,
+      "placement": {
+        "mode": "season",
+        "season": 2021,
+        "slot": 0,
+        "anchorSunday": "2021-01-10"
+      },
+      "counts": {
+        "human": 4,
+        "ai": 2
+      },
+      "humanFirst": true,
+      "difficulty": "hard",
+      "moves": "",
+      "status": "in_progress",
+      "startedAt": "2026-10-09T07:37:43.607Z"
+    }
+  ],
+  "anchors": [
+    {
+      "date": "2021-01-01",
+      "count": 14
+    }
+  ],
+  "updatedAt": "2026-10-09T07:37:43.607Z"
 }

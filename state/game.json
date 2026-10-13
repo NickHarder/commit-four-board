@@ -92,9 +92,10 @@
       },
       "humanFirst": true,
       "difficulty": "casual",
-      "moves": "4331",
-      "status": "in_progress",
-      "startedAt": "2026-10-13T19:39:56.750Z"
+      "moves": "433132334544542",
+      "status": "human_won",
+      "startedAt": "2026-10-13T19:39:56.750Z",
+      "endedAt": "2026-10-13T19:40:31.233Z"
     }
   ],
   "anchors": [
@@ -103,5 +104,5 @@
       "count": 14
     }
   ],
-  "updatedAt": "2026-10-13T19:40:00.839Z"
+  "updatedAt": "2026-10-13T19:40:31.233Z"
 }

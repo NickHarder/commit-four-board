@@ -111,7 +111,7 @@
       },
       "humanFirst": true,
       "difficulty": "perfect",
-      "moves": "",
+      "moves": "4444",
       "status": "in_progress",
       "startedAt": "2026-10-13T19:40:42.647Z"
     }
@@ -122,5 +122,5 @@
       "count": 14
     }
   ],
-  "updatedAt": "2026-10-13T19:40:42.647Z"
+  "updatedAt": "2026-10-13T19:40:47.947Z"
 }
